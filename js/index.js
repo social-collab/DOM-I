@@ -106,7 +106,7 @@ newLinkTwo.textContent = "Last Item";
 newLinkTwo.href = "#";
 newLinkTwo.style.color = "darkGreen";
 addNavLinks.prepend(newLinkOne);
-addNavLinks.appendChild(newLinkTwo);
+addNavLinks.appendChild(newLinkTwo); 
 
 // STRETCH GOAL
 
